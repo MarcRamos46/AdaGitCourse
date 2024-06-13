@@ -5,4 +5,5 @@
 *Uso dos comandos git log, git restore e git restore --staged <nome do arquivo>
 * Comando git push
 * Comando git pull
+* Comando git fetch
 
