@@ -2,7 +2,12 @@
 
 ## Salvando modificações no Git/Saving changes to Git.
 
-*Uso dos comandos git log, git restore e git restore --staged <nome do arquivo>
+### Uso dos comandos:
+* git add
+* git status
+* git log
+* git restore
+* git restore --staged <nome do arquivo>
 * Comando git push
 * Comando git pull
 * Comando git fetch
